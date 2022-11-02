@@ -144,7 +144,6 @@ h2.information {
 }
 
 .quote-section {
-    /* height: 300px; */
     display: flex;
     flex-direction: column;
     justify-content: center;
